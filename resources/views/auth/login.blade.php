@@ -1,4 +1,4 @@
-@extends('auth.base')
+@extends('base.auth')
 
 @section('title', 'Login')
 
